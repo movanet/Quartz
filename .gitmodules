@@ -1,0 +1,6 @@
+[submodule "claudable"]
+	path = claudable
+	url = https://github.com/opactorai/Claudable.git
+[submodule "firecrawl"]
+	path = firecrawl
+	url = https://github.com/mendableai/firecrawl.git
