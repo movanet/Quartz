@@ -1,0 +1,629 @@
+{
+  "metadata_version": "1.0",
+  "generated_date": "2025-10-25",
+  "project": "CRPG.info Archive",
+  "agent": "Agent 3 - Asset Management & Database",
+  "total_assets": 30,
+  "asset_summary": {
+    "pdfs": 10,
+    "images": 19,
+    "videos": 1,
+    "total_estimated_size_mb": "93-267 MB"
+  },
+  "assets": [
+    {
+      "id": "asset_001",
+      "type": "pdf",
+      "category": "proceedings",
+      "subcategory": "conferences",
+      "original": {
+        "url": "https://crpg.info/wp-content/uploads/2024/07/Realizing-Access-to-Safe-Inclusive-Sustainable-and-Climate-Resillient-Drinking-Water-Sanitation-and-Hygiene-for-All.pdf",
+        "source_page": "https://crpg.info/wash/",
+        "source_page_title": "IsWASH 2023 Symposium",
+        "discovered_by": "Agent 1 inventory",
+        "verified_accessible": true
+      },
+      "local": {
+        "path": "assets/pdfs/proceedings/conferences/2023-iswash-proceedings.pdf",
+        "filename": "2023-iswash-proceedings.pdf",
+        "directory": "assets/pdfs/proceedings/conferences/"
+      },
+      "file_properties": {
+        "size_bytes": 3741730,
+        "size_human": "3.7 MB",
+        "format": "pdf",
+        "mime_type": "application/pdf",
+        "hash_md5": "pending_download",
+        "hash_sha256": "pending_download",
+        "page_count": "pending_download"
+      },
+      "content_metadata": {
+        "title": "Realizing Access to Safe, Inclusive, Sustainable and Climate-Resilient Drinking Water, Sanitation and Hygiene for All",
+        "title_short": "IsWASH 2023 Proceedings",
+        "description": "IsWASH 2023 symposium proceedings covering sustainable WASH infrastructure, climate resilience, and inclusive access to water and sanitation services in Indonesia.",
+        "language": "en",
+        "publication_type": "conference_proceedings",
+        "abstract": "Full proceedings from the Indonesian Water, Sanitation and Hygiene Symposium held March 20-21, 2023, covering topics of sustainable infrastructure, climate adaptation, and inclusive WASH services aligned with SDG 6."
+      },
+      "authors_and_creators": {
+        "authors": ["Multiple Authors"],
+        "editors": ["CRPG Team", "Bappenas"],
+        "organization": "CRPG/Bappenas",
+        "contributors": ["Various symposium presenters"]
+      },
+      "dates": {
+        "created": "2023-03-20",
+        "published": "2024-07",
+        "archived": "pending",
+        "last_modified": "2024-07-30"
+      },
+      "topics_and_keywords": {
+        "primary_topics": ["water", "sanitation", "hygiene", "climate", "governance"],
+        "keywords": ["WASH", "water", "sanitation", "hygiene", "climate", "Indonesia", "SDG6", "symposium", "conference", "proceedings"],
+        "subject_areas": ["Water Governance", "Climate Resilience", "WASH Infrastructure", "SDG 6"],
+        "geographic_focus": "Indonesia"
+      },
+      "rights": {
+        "license": "Unknown",
+        "copyright": "CRPG/Bappenas",
+        "attribution_required": true,
+        "usage_rights": "pending_verification"
+      },
+      "relationships": {
+        "related_assets": ["asset_015", "asset_024", "asset_025"],
+        "part_of_collection": "IsWASH 2023 Collection",
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "usage": {
+        "referenced_in_pages": [
+          "/wash/symposium",
+          "/research/iswash-2023",
+          "/events/2023"
+        ],
+        "download_count": 0,
+        "last_accessed": null,
+        "usage_context": "Major symposium proceedings - primary research output"
+      },
+      "quality": {
+        "priority": 1,
+        "status": "verified",
+        "quality_score": null,
+        "issues": [],
+        "optimization_needed": false,
+        "searchable_text": "pending_verification"
+      },
+      "notes": "Major conference proceedings - HIGH PRIORITY. Successfully verified as accessible during Agent 1 inventory."
+    },
+    {
+      "id": "asset_002",
+      "type": "pdf",
+      "category": "research-papers",
+      "subcategory": "2016-aiira",
+      "original": {
+        "url": "https://cloud.crpg.info/docs/aiirareport8072016_2.pdf",
+        "source_page": "https://blog.crpg.info/2016/australia-indonesia-infrastructure-research/",
+        "source_page_title": "AIIRA Research Project",
+        "discovered_by": "Agent 1 inventory",
+        "verified_accessible": "requires_verification"
+      },
+      "local": {
+        "path": "assets/pdfs/research-papers/2016-aiira/2016-aiira-water-sanitation-regulatory-frameworks.pdf",
+        "filename": "2016-aiira-water-sanitation-regulatory-frameworks.pdf",
+        "directory": "assets/pdfs/research-papers/2016-aiira/"
+      },
+      "file_properties": {
+        "size_bytes": "pending",
+        "size_human": "5-10 MB est",
+        "format": "pdf",
+        "mime_type": "application/pdf",
+        "hash_md5": "pending",
+        "hash_sha256": "pending",
+        "page_count": "pending"
+      },
+      "content_metadata": {
+        "title": "The Role of Regulatory Frameworks in Ensuring The Sustainability of Community-Based Water and Sanitation",
+        "title_short": "AIIRA Report 2016",
+        "description": "Comprehensive research report on regulatory frameworks for community-based water and sanitation systems in Indonesia, including field studies from East Nusa Tenggara and East Java.",
+        "language": "en",
+        "publication_type": "research_report",
+        "abstract": "This report examines the regulatory frameworks necessary for sustainable community-based water and sanitation systems in Indonesia. Based on field studies in East Nusa Tenggara and East Java, it analyzes governance structures, legal frameworks, and institutional arrangements for community water management."
+      },
+      "authors_and_creators": {
+        "authors": ["Mohamad Mova Al'Afghani", "Dyah Paramita", "Additional Researchers"],
+        "organization": "CRPG/UNESCO Centre for Water Law/University of Dundee",
+        "partners": ["UNESCO Centre for Water Law, Policy and Science", "University of Dundee"],
+        "funding_source": "Australia Indonesia Infrastructure Research Award (AIIRA)"
+      },
+      "dates": {
+        "created": "2016-08-07",
+        "published": "2016-08",
+        "archived": "pending"
+      },
+      "topics_and_keywords": {
+        "primary_topics": ["water", "sanitation", "regulation", "governance", "community"],
+        "keywords": ["AIIRA", "water", "sanitation", "regulation", "community", "governance", "Indonesia", "sustainability", "field study"],
+        "subject_areas": ["Water Governance", "Regulatory Frameworks", "Community Services", "WASH"],
+        "geographic_focus": "Indonesia (East Nusa Tenggara, East Java)"
+      },
+      "rights": {
+        "license": "Unknown",
+        "copyright": "CRPG/UNESCO/University of Dundee",
+        "attribution_required": true,
+        "usage_rights": "academic_research"
+      },
+      "relationships": {
+        "related_assets": ["asset_016"],
+        "part_of_collection": "AIIRA Research Collection",
+        "has_annexes": true,
+        "components": ["Main Report", "Field Study East Nusa Tenggara", "Field Study East Java"]
+      },
+      "usage": {
+        "referenced_in_pages": [
+          "/research/aiira",
+          "/publications/2016",
+          "/projects/unesco"
+        ],
+        "download_count": 0,
+        "usage_context": "Major research output with international partnership"
+      },
+      "quality": {
+        "priority": 1,
+        "status": "pending_download",
+        "quality_score": null,
+        "issues": ["Requires cloud storage access verification"],
+        "notes_verification": "Cloud storage URL - may require authentication"
+      },
+      "notes": "Major research output with UNESCO partnership. Multi-component report including field studies. HIGH PRIORITY for archive."
+    },
+    {
+      "id": "asset_011",
+      "type": "image",
+      "category": "logos",
+      "subcategory": "crpg",
+      "original": {
+        "url": "pending_discovery",
+        "source_page": "https://crpg.info/",
+        "source_page_title": "CRPG Homepage",
+        "discovered_by": "Agent 1 inventory - requires extraction"
+      },
+      "local": {
+        "path": "assets/images/logos/crpg/logo-crpg-primary.svg",
+        "filename": "logo-crpg-primary.svg",
+        "directory": "assets/images/logos/crpg/",
+        "variants": [
+          "logo-crpg-primary.svg",
+          "logo-crpg-primary.png",
+          "logo-crpg-primary-small.png",
+          "logo-crpg-horizontal.svg"
+        ]
+      },
+      "file_properties": {
+        "size_bytes": "pending",
+        "size_human": "50-200 KB est",
+        "format": "svg",
+        "mime_type": "image/svg+xml",
+        "hash_md5": "pending",
+        "dimensions": "vector",
+        "has_transparency": true
+      },
+      "image_metadata": {
+        "title": "CRPG Logo Primary",
+        "description": "Primary logo for Center for Regulation Policy and Governance (CRPG).",
+        "alt_text": "CRPG logo - Center for Regulation Policy and Governance",
+        "caption": null,
+        "image_type": "logo",
+        "orientation": "square/horizontal"
+      },
+      "content_metadata": {
+        "language": "N/A",
+        "subject_matter": "Organizational branding"
+      },
+      "authors_and_creators": {
+        "creator": "CRPG Design Team",
+        "organization": "CRPG",
+        "photographer": "N/A",
+        "designer": "CRPG"
+      },
+      "dates": {
+        "created": "pending",
+        "published": "pending",
+        "archived": "pending"
+      },
+      "topics_and_keywords": {
+        "primary_topics": ["branding"],
+        "keywords": ["CRPG", "logo", "branding", "organization", "identity"],
+        "tags": ["logo", "branding", "primary"]
+      },
+      "rights": {
+        "license": "All Rights Reserved",
+        "copyright": "CRPG",
+        "attribution_required": true,
+        "usage_rights": "organizational_use_only"
+      },
+      "relationships": {
+        "related_assets": ["asset_012"],
+        "variants_of_same": ["asset_012"],
+        "part_of_collection": "CRPG Brand Assets"
+      },
+      "usage": {
+        "referenced_in_pages": [
+          "/header",
+          "/footer",
+          "/about",
+          "/* all pages */"
+        ],
+        "usage_context": "PRIMARY BRANDING - used site-wide in header, footer, and navigation",
+        "placement": "header, footer, about page",
+        "responsive_variants": true
+      },
+      "quality": {
+        "priority": 1,
+        "status": "pending_download",
+        "quality_score": null,
+        "optimization_needed": false,
+        "notes_quality": "Vector format preferred - obtain SVG and PNG variants at multiple sizes"
+      },
+      "notes": "PRIMARY BRANDING ASSET - Critical for site identity. Obtain both SVG (vector) and PNG (raster) variants. Multiple sizes needed for responsive design (icon, small, medium, large)."
+    },
+    {
+      "id": "asset_013",
+      "type": "image",
+      "category": "team",
+      "subcategory": "core",
+      "original": {
+        "url": "pending_discovery",
+        "source_page": "https://crpg.info/profile/",
+        "source_page_title": "CRPG Profile/Team",
+        "discovered_by": "Agent 1 inventory"
+      },
+      "local": {
+        "path": "assets/images/team/core/team-mohamad-mova-alafghani.jpg",
+        "filename": "team-mohamad-mova-alafghani.jpg",
+        "directory": "assets/images/team/core/"
+      },
+      "file_properties": {
+        "size_bytes": "pending",
+        "size_human": "100-500 KB est",
+        "format": "jpg",
+        "mime_type": "image/jpeg",
+        "hash_md5": "pending",
+        "dimensions": "pending",
+        "aspect_ratio": "portrait/square",
+        "has_transparency": false
+      },
+      "image_metadata": {
+        "title": "Mohamad Mova Al'Afghani",
+        "description": "Professional photo of Mohamad Mova Al'Afghani - Director of CRPG and PhD researcher.",
+        "alt_text": "Photo of Mohamad Mova Al'Afghani - CRPG Director",
+        "caption": "Mohamad Mova Al'Afghani, PhD - Director, Center for Regulation Policy and Governance",
+        "image_type": "portrait",
+        "orientation": "portrait",
+        "subject": "Mohamad Mova Al'Afghani"
+      },
+      "content_metadata": {
+        "person_name": "Mohamad Mova Al'Afghani",
+        "person_role": "Director",
+        "person_title": "PhD",
+        "person_status": "current",
+        "language": "N/A"
+      },
+      "authors_and_creators": {
+        "photographer": "Unknown",
+        "organization": "CRPG",
+        "photo_credit": "pending"
+      },
+      "dates": {
+        "created": "pending",
+        "published": "pending",
+        "archived": "pending"
+      },
+      "topics_and_keywords": {
+        "primary_topics": ["team"],
+        "keywords": ["team", "personnel", "director", "researcher", "Mohamad Mova Al'Afghani"],
+        "tags": ["team", "core", "director", "personnel"]
+      },
+      "rights": {
+        "license": "Unknown",
+        "copyright": "CRPG",
+        "attribution_required": false,
+        "usage_rights": "organizational_use",
+        "privacy_consent": "assumed_granted"
+      },
+      "relationships": {
+        "related_assets": [],
+        "person_authored": ["asset_001", "asset_002", "asset_005", "asset_008"],
+        "part_of_collection": "CRPG Team Photos"
+      },
+      "usage": {
+        "referenced_in_pages": [
+          "/profile",
+          "/team",
+          "/about"
+        ],
+        "usage_context": "Director profile - core team member",
+        "placement": "team page, about page, researcher profiles"
+      },
+      "quality": {
+        "priority": 2,
+        "status": "pending_download",
+        "quality_score": null,
+        "optimization_needed": true,
+        "target_dimensions": "400x400 or 300x400 portrait"
+      },
+      "notes": "Director - core team member. Professional headshot for team page and about section."
+    },
+    {
+      "id": "asset_018",
+      "type": "image",
+      "category": "blog",
+      "subcategory": "2023",
+      "original": {
+        "url": "pending_discovery",
+        "source_page": "https://blog.crpg.info/2023/07/9-nine-indonesias-water-governance.html",
+        "source_page_title": "9 (Nine) Indonesia's Water Governance Articles You Should Read",
+        "discovered_by": "Agent 1 inventory",
+        "extraction_method": "HTML img tag parsing"
+      },
+      "local": {
+        "path": "assets/images/blog/2023/blog-2023-07-water-governance-featured.jpg",
+        "filename": "blog-2023-07-water-governance-featured.jpg",
+        "directory": "assets/images/blog/2023/"
+      },
+      "file_properties": {
+        "size_bytes": "pending",
+        "size_human": "100-400 KB est",
+        "format": "jpg",
+        "mime_type": "image/jpeg",
+        "hash_md5": "pending",
+        "dimensions": "pending",
+        "aspect_ratio": "16:9 or 4:3",
+        "has_transparency": false
+      },
+      "image_metadata": {
+        "title": "Water Governance Featured Image",
+        "description": "Featured image for blog post about nine Indonesia water governance articles.",
+        "alt_text": "Water infrastructure and governance concept image",
+        "caption": null,
+        "image_type": "featured_image",
+        "orientation": "landscape",
+        "subject": "Water infrastructure/governance concept"
+      },
+      "content_metadata": {
+        "language": "N/A",
+        "subject_matter": "Water governance, infrastructure"
+      },
+      "authors_and_creators": {
+        "photographer": "Stock/Unknown",
+        "source": "Unknown",
+        "organization": "Unknown"
+      },
+      "dates": {
+        "created": "pending",
+        "published": "2023-07",
+        "archived": "pending"
+      },
+      "topics_and_keywords": {
+        "primary_topics": ["blog", "water"],
+        "keywords": ["water", "governance", "Indonesia", "blog", "featured", "infrastructure"],
+        "tags": ["blog", "featured-image", "water", "governance"]
+      },
+      "rights": {
+        "license": "Unknown",
+        "copyright": "Unknown",
+        "attribution_required": "unknown",
+        "usage_rights": "pending_verification",
+        "source_verification_needed": true
+      },
+      "relationships": {
+        "related_assets": [],
+        "featured_in_post": "https://blog.crpg.info/2023/07/9-nine-indonesias-water-governance.html",
+        "part_of_collection": "Blog Featured Images 2023"
+      },
+      "usage": {
+        "referenced_in_pages": [
+          "/blog/2023-water-governance-articles"
+        ],
+        "usage_context": "Blog featured image for curated article collection",
+        "placement": "blog post header",
+        "importance": "medium"
+      },
+      "quality": {
+        "priority": 3,
+        "status": "pending_download",
+        "quality_score": null,
+        "optimization_needed": true,
+        "target_dimensions": "1200x675 or similar",
+        "target_size": "<300 KB"
+      },
+      "notes": "Blog featured image. May be stock photography. Verify source and licensing during download."
+    },
+    {
+      "id": "asset_027",
+      "type": "video",
+      "category": "videos",
+      "subcategory": "webinars",
+      "original": {
+        "url": "https://www.youtube.com/watch?v=pending_id",
+        "platform": "YouTube",
+        "source_page": "https://blog.crpg.info/2022/02/webinar-kick-off-swa-mam-jejaring-ampl.html",
+        "source_page_title": "Webinar Kick-off SWA & MAM Jejaring AMPL - CRPG",
+        "discovered_by": "Agent 1 inventory"
+      },
+      "local": {
+        "path": "assets/media/videos/webinars/2022-02-wash-webinar-swa-mam-kickoff.txt",
+        "filename": "2022-02-wash-webinar-swa-mam-kickoff.txt",
+        "directory": "assets/media/videos/webinars/",
+        "storage_type": "metadata_only"
+      },
+      "file_properties": {
+        "size_bytes": "N/A",
+        "size_human": "N/A (external)",
+        "format": "youtube_link",
+        "mime_type": "text/plain",
+        "hash_md5": "N/A"
+      },
+      "video_metadata": {
+        "title": "Webinar Kick-off SWA & MAM Jejaring AMPL - CRPG",
+        "description": "YouTube video of WASH webinar kickoff for SWA (Sanitation and Water for All) and MAM (Mutual Accountability Mechanism) with Jejaring AMPL network.",
+        "duration": "pending",
+        "resolution": "pending",
+        "thumbnail_url": "pending",
+        "embed_code": "pending",
+        "platform": "YouTube",
+        "video_id": "pending"
+      },
+      "content_metadata": {
+        "language": "id/en",
+        "subtitle_available": "unknown",
+        "transcript_available": "unknown",
+        "event_type": "webinar",
+        "event_date": "2022-02-20"
+      },
+      "authors_and_creators": {
+        "creator": "CRPG Team",
+        "organization": "CRPG",
+        "presenters": ["Various"],
+        "host": "Jejaring AMPL/CRPG"
+      },
+      "dates": {
+        "created": "2022-02-20",
+        "published": "2022-02",
+        "archived": "pending"
+      },
+      "topics_and_keywords": {
+        "primary_topics": ["events", "water", "WASH"],
+        "keywords": ["webinar", "WASH", "SWA", "MAM", "AMPL", "video", "YouTube", "sanitation", "water"],
+        "tags": ["webinar", "video", "external", "wash", "network"]
+      },
+      "rights": {
+        "license": "Unknown",
+        "copyright": "CRPG",
+        "attribution_required": true,
+        "usage_rights": "embed_allowed",
+        "platform_tos": "YouTube Terms of Service"
+      },
+      "relationships": {
+        "related_assets": ["asset_019"],
+        "associated_blog_post": "asset_019",
+        "part_of_collection": "WASH Webinar Series"
+      },
+      "usage": {
+        "referenced_in_pages": [
+          "/events/2022-wash-webinar"
+        ],
+        "usage_context": "External YouTube video - embed in webinar page",
+        "embed_required": true,
+        "archival_strategy": "metadata_and_link_only"
+      },
+      "quality": {
+        "priority": 3,
+        "status": "pending_verification",
+        "external_dependency": true,
+        "availability_risk": "medium",
+        "backup_recommended": false
+      },
+      "notes": "External YouTube video - store URL and metadata only. Not directly archivable. Embed code should be preserved. Consider capturing thumbnail screenshot for reference."
+    }
+  ],
+  "collections": {
+    "iswash_2023": {
+      "name": "IsWASH 2023 Collection",
+      "description": "Assets related to Indonesian Water, Sanitation and Hygiene Symposium 2023",
+      "asset_ids": ["asset_001", "asset_015", "asset_024", "asset_025"],
+      "primary_topics": ["water", "sanitation", "hygiene", "symposium"],
+      "year": 2023
+    },
+    "aiira_2016": {
+      "name": "AIIRA Research Collection",
+      "description": "Assets from Australia Indonesia Infrastructure Research Award project on community water systems",
+      "asset_ids": ["asset_002", "asset_016"],
+      "primary_topics": ["water", "sanitation", "community", "regulation"],
+      "year": 2016,
+      "partners": ["UNESCO", "University of Dundee"]
+    },
+    "pops_2017": {
+      "name": "POPs Regulation Collection",
+      "description": "Assets from Persistent Organic Pollutants regulation research with UNIDO",
+      "asset_ids": ["asset_005", "asset_017", "asset_026"],
+      "primary_topics": ["environment", "chemicals", "regulation", "POPs", "PCB"],
+      "year": 2017,
+      "partners": ["UNIDO", "Ministry of Environment"]
+    },
+    "team_photos": {
+      "name": "CRPG Team Photos",
+      "description": "Professional photographs of CRPG team members",
+      "asset_ids": ["asset_013", "asset_014"],
+      "primary_topics": ["team", "personnel"],
+      "subcategories": ["core", "affiliated", "historical"]
+    },
+    "brand_assets": {
+      "name": "CRPG Brand Assets",
+      "description": "CRPG logos, branding, and organizational identity assets",
+      "asset_ids": ["asset_011", "asset_012"],
+      "primary_topics": ["branding", "logos"],
+      "critical": true
+    },
+    "partner_logos": {
+      "name": "Partner Organization Logos",
+      "description": "Logos of partner organizations (UNESCO, UNIDO, Bappenas, etc.)",
+      "asset_ids": ["asset_021", "asset_022", "asset_023"],
+      "primary_topics": ["branding", "partners"]
+    }
+  },
+  "statistics": {
+    "total_assets_cataloged": 30,
+    "by_type": {
+      "pdf": 10,
+      "image": 19,
+      "video": 1
+    },
+    "by_priority": {
+      "tier_1_critical": 6,
+      "tier_2_high": 8,
+      "tier_3_medium": 12,
+      "tier_4_low": 4
+    },
+    "by_status": {
+      "verified_accessible": 1,
+      "pending_download": 28,
+      "requires_verification": 1
+    },
+    "estimated_total_size_mb": "93-267"
+  },
+  "download_queue": {
+    "tier_1_critical": [
+      "asset_001",
+      "asset_002",
+      "asset_003",
+      "asset_005",
+      "asset_011",
+      "asset_012"
+    ],
+    "tier_2_high": [
+      "asset_004",
+      "asset_006",
+      "asset_007",
+      "asset_013",
+      "asset_014",
+      "asset_021",
+      "asset_022",
+      "asset_023"
+    ],
+    "tier_3_medium": [
+      "asset_008",
+      "asset_009",
+      "asset_015",
+      "asset_016",
+      "asset_017",
+      "asset_018",
+      "asset_019",
+      "asset_020",
+      "asset_024",
+      "asset_025",
+      "asset_026",
+      "asset_027"
+    ]
+  },
+  "notes": "This metadata structure represents sample assets from the CRPG.info archive. Each asset includes comprehensive metadata for provenance, rights management, quality control, and usage tracking. The actual archive will contain 300-600+ assets following this same structure."
+}

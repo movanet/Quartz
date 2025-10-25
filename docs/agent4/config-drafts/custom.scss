@@ -1,0 +1,277 @@
+@use "./base.scss";
+
+/**
+ * CRPG Custom Styles
+ *
+ * Brand Colors:
+ * - Primary Red: #e51d1d
+ * - Accent Orange: #ed6600
+ *
+ * Design Philosophy:
+ * - Professional and academic
+ * - High readability for research content
+ * - Subtle brand integration
+ * - Clean, modern aesthetic
+ */
+
+/* ========================================
+   BRAND ACCENT COLORS
+   ======================================== */
+
+/* Apply CRPG red to links */
+a {
+  color: var(--secondary) !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: var(--tertiary) !important;
+    text-decoration: underline;
+  }
+}
+
+/* Active/current links get the orange accent */
+a.internal.is-active {
+  color: var(--tertiary) !important;
+  font-weight: 600;
+}
+
+/* ========================================
+   TYPOGRAPHY ENHANCEMENTS
+   ======================================== */
+
+/* Professional header styling */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+
+  /* Add subtle border under h2 for section separation */
+  &:is(h2) {
+    border-bottom: 2px solid var(--lightgray);
+    padding-bottom: 0.3em;
+  }
+}
+
+/* Improve body text readability */
+.page article {
+  line-height: 1.7;
+  font-size: 1.05rem;
+
+  /* Academic paper spacing */
+  p {
+    margin-bottom: 1.2em;
+    text-align: justify;
+    hyphens: auto;
+  }
+}
+
+/* ========================================
+   NAVIGATION & SIDEBAR
+   ======================================== */
+
+/* Style the page title with CRPG branding */
+.page-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--secondary);
+
+  &:hover {
+    color: var(--tertiary);
+  }
+}
+
+/* Explorer/sidebar styling */
+.explorer {
+  /* Highlight current folder/section */
+  .folder-title.is-active {
+    background-color: var(--highlight);
+    border-left: 3px solid var(--secondary);
+  }
+}
+
+/* ========================================
+   SEARCH STYLING
+   ======================================== */
+
+/* Style search box with CRPG accent */
+#search-container {
+  input {
+    border: 2px solid var(--lightgray);
+    transition: border-color 0.2s ease;
+
+    &:focus {
+      border-color: var(--secondary);
+      outline: none;
+      box-shadow: 0 0 0 3px rgba(229, 29, 29, 0.1);
+    }
+  }
+}
+
+/* ========================================
+   GRAPH VIEW
+   ======================================== */
+
+/* Customize graph node colors to match brand */
+.graph {
+  /* This would need to be coordinated with the graph component's rendering */
+  /* Colors are set in the layout.ts configuration */
+}
+
+/* ========================================
+   TAGS & METADATA
+   ======================================== */
+
+/* Style tags with CRPG colors */
+.tags {
+  a {
+    background-color: var(--highlight);
+    color: var(--secondary) !important;
+    padding: 0.2em 0.6em;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: 500;
+
+    &:hover {
+      background-color: var(--secondary);
+      color: white !important;
+      text-decoration: none;
+    }
+  }
+}
+
+/* ========================================
+   CALLOUTS & ALERTS
+   ======================================== */
+
+/* Enhance callout boxes for academic notes */
+.callout {
+  border-left: 4px solid var(--secondary);
+
+  &.callout-note {
+    border-left-color: var(--secondary);
+    background-color: rgba(229, 29, 29, 0.05);
+  }
+
+  &.callout-warning {
+    border-left-color: var(--tertiary);
+    background-color: rgba(237, 102, 0, 0.05);
+  }
+}
+
+/* ========================================
+   FOOTER
+   ======================================== */
+
+/* Professional footer styling */
+footer {
+  border-top: 2px solid var(--lightgray);
+  padding-top: 1.5rem;
+  margin-top: 3rem;
+
+  a {
+    font-weight: 500;
+
+    &:hover {
+      color: var(--tertiary) !important;
+    }
+  }
+}
+
+/* ========================================
+   TABLE OF CONTENTS
+   ======================================== */
+
+/* TOC styling for research papers */
+.toc {
+  border-left: 3px solid var(--lightgray);
+
+  a {
+    font-size: 0.95rem;
+
+    &.is-active {
+      color: var(--secondary) !important;
+      font-weight: 600;
+      border-left: 3px solid var(--secondary);
+    }
+  }
+}
+
+/* ========================================
+   BACKLINKS
+   ======================================== */
+
+/* Style backlinks section */
+.backlinks {
+  a {
+    display: block;
+    padding: 0.5em;
+    border-radius: 4px;
+
+    &:hover {
+      background-color: var(--highlight);
+      text-decoration: none;
+    }
+  }
+}
+
+/* ========================================
+   RESPONSIVE ADJUSTMENTS
+   ======================================== */
+
+@media (max-width: 800px) {
+  .page article {
+    font-size: 1rem;
+
+    p {
+      text-align: left;
+      hyphens: none;
+    }
+  }
+}
+
+/* ========================================
+   DARK MODE OVERRIDES
+   ======================================== */
+
+/* Ensure readability in dark mode */
+@media (prefers-color-scheme: dark) {
+  .page article p {
+    text-align: left; /* Disable justify in dark mode for comfort */
+  }
+
+  /* Adjust tag styling for dark mode */
+  .tags a {
+    background-color: rgba(255, 68, 68, 0.15);
+
+    &:hover {
+      background-color: var(--secondary);
+    }
+  }
+}
+
+/* ========================================
+   PRINT STYLES (for academic papers)
+   ======================================== */
+
+@media print {
+  .page article {
+    font-size: 11pt;
+    line-height: 1.6;
+
+    p {
+      text-align: justify;
+    }
+
+    a {
+      color: black !important;
+      text-decoration: underline;
+    }
+  }
+
+  /* Hide interactive elements when printing */
+  .graph, .backlinks, .toc, footer {
+    display: none;
+  }
+}

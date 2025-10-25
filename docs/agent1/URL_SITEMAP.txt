@@ -1,0 +1,224 @@
+# CRPG.info URL Sitemap
+# Analysis Date: October 25, 2025
+# Project: CRPG.info Archival Project
+#
+# This file contains all identified URLs across the CRPG.info ecosystem
+# Format: [URL] | [Type] | [Priority] | [Status]
+#
+# Priority Levels: HIGH, MEDIUM, LOW
+# Status: ACCESSIBLE, INACCESSIBLE, UNKNOWN, VERIFIED
+#
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# MAIN SITE (crpg.info)
+# Status: Currently experiencing 521 errors
+# -----------------------------------------------------------------------------
+
+## Core Pages
+https://crpg.info/ | homepage | HIGH | INACCESSIBLE
+https://crpg.info/profile/ | about | HIGH | INACCESSIBLE
+https://crpg.info/research/ | research | HIGH | INACCESSIBLE
+https://crpg.info/program/ | program | HIGH | INACCESSIBLE
+
+## Project Pages
+https://crpg.info/aiira/ | project | HIGH | INACCESSIBLE
+https://crpg.info/wash/ | project | HIGH | INACCESSIBLE
+https://crpg.info/koneksi/ | project | MEDIUM | INACCESSIBLE
+
+## Team Member Pages (Estimated)
+https://crpg.info/mohamad-mova/ | profile | MEDIUM | INACCESSIBLE
+https://crpg.info/mohamad-mova-alafghani/ | profile | MEDIUM | INACCESSIBLE
+https://crpg.info/dyah-paramita/ | profile | MEDIUM | INACCESSIBLE
+
+## Administrative
+https://crpg.info/sitemap.xml | sitemap | HIGH | INACCESSIBLE
+https://crpg.info/wp-sitemap.xml | sitemap | HIGH | INACCESSIBLE
+
+# -----------------------------------------------------------------------------
+# BLOG (blog.crpg.info)
+# Status: Accessible via Blogger platform
+# Total Posts: 900+
+# -----------------------------------------------------------------------------
+
+## Core Pages
+http://blog.crpg.info/ | homepage | HIGH | ACCESSIBLE
+http://blog.crpg.info/p/publikasi.html | publications | HIGH | UNKNOWN
+http://blog.crpg.info/sitemap.xml | sitemap | HIGH | ACCESSIBLE
+
+## 2023 Posts (12 posts)
+http://blog.crpg.info/2023/07/9-nine-indonesias-water-governance.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2023/04/dampak-perubahan-iklim-terhadap-bencana.html | post | LOW | UNKNOWN
+http://blog.crpg.info/2023/ | archive | MEDIUM | ACCESSIBLE
+
+## 2022 Posts (1 post)
+http://blog.crpg.info/2022/02/webinar-kick-off-swa-mam-jejaring-ampl-crpg.html | post | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2022/ | archive | MEDIUM | ACCESSIBLE
+
+## 2021 Posts (4 posts)
+http://blog.crpg.info/2021/09/strengthening-mutual-accountability.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2021/05/konsep-regulasi-berbasis-risiko.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2021/01/water-allocation-issues-under-law-172019.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2021/ | archive | HIGH | ACCESSIBLE
+
+## 2020 Posts (3 posts)
+http://blog.crpg.info/2020/12/larangan-pendayagunaan-air.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2020/08/risk-based-approach-job-creation-bill.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2020/07/pcb-kontaminasi-transformator.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2020/ | archive | MEDIUM | ACCESSIBLE
+
+## 2019 Posts (2 posts)
+http://blog.crpg.info/2019/06/jalan-rekonsiliasi-ahy.html | post | LOW | UNKNOWN
+http://blog.crpg.info/2019/02/critique-community-based-water-model.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2019/ | archive | MEDIUM | ACCESSIBLE
+
+## 2018 Posts (4 posts)
+http://blog.crpg.info/2018/10/kertas-posisi-masukan-jejaring-ampl.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2018/08/crpg-presentation-dioxin-conference.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2018/08/seri-kajian-ruu-sumber-daya-air.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2018/02/ruu-sumber-daya-air-baleg-dpr.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2018/ | archive | MEDIUM | ACCESSIBLE
+
+## 2017 Posts (5 posts)
+http://blog.crpg.info/2017/07/indonesia-ogp-irm-end-term-report.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2017/07/local-government-communal-sanitation.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2017/07/regulation-persistent-organic-pollutants.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2017/05/politik-jalan-ketiga-anies.html | post | LOW | UNKNOWN
+http://blog.crpg.info/2017/05/dilema-kepemimpinan-kultus.html | post | LOW | UNKNOWN
+http://blog.crpg.info/2017/ | archive | HIGH | ACCESSIBLE
+
+## 2016 Posts (~12 posts)
+http://blog.crpg.info/2016/11/plastic-shopping-bag-levy.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2016/09/chemical-management-training.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2016/08/gender-mainstreaming-water-resources.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2016/07/australia-indonesia-infrastructure-research.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2016/04/corporate-transparency.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2016/03/regulatory-framework-local-wastewater.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2016/ | archive | MEDIUM | ACCESSIBLE
+
+## 2015 Posts (~25 posts)
+http://blog.crpg.info/2015/06/orasi-ilmiah-penelitian-tata-kelola-air.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2015/05/membaca-kepemimpinan-jokowi.html | post | LOW | UNKNOWN
+http://blog.crpg.info/2015/02/integrated-water-resources-management.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2015/02/water-and-power-services-public.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2015/02/regulation-community-based-water.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2015/02/open-government-partnership-irm.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2015/01/regional-autonomy-provinces-water.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2015/01/crpg-blog-library-congress-webarchive.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2015/ | archive | MEDIUM | ACCESSIBLE
+
+## 2010 Posts (132 posts - selected representatives)
+http://blog.crpg.info/2010/12/human-right-water-indonesia.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2010/12/transparency-rejection-authority.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2010/09/potential-role-human-right-water.html | post | HIGH | UNKNOWN
+http://blog.crpg.info/2010/09/greening-water-law-ebook.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2010/09/semarang-water-utility-case-study.html | post | MEDIUM | UNKNOWN
+http://blog.crpg.info/2010/03/bonn-charter-for-safe-drinking-water.html | post | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2010/ | archive | MEDIUM | ACCESSIBLE
+
+## 2007 Posts (137 posts - selected representatives)
+http://blog.crpg.info/2007/ | archive | MEDIUM | UNKNOWN
+
+## Year Archives (All Years)
+http://blog.crpg.info/2006/ | archive | LOW | UNKNOWN
+http://blog.crpg.info/2007/ | archive | MEDIUM | UNKNOWN
+http://blog.crpg.info/2008/ | archive | MEDIUM | UNKNOWN
+http://blog.crpg.info/2009/ | archive | MEDIUM | UNKNOWN
+http://blog.crpg.info/2010/ | archive | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2011/ | archive | MEDIUM | UNKNOWN
+http://blog.crpg.info/2012/ | archive | MEDIUM | UNKNOWN
+http://blog.crpg.info/2013/ | archive | MEDIUM | UNKNOWN
+http://blog.crpg.info/2014/ | archive | MEDIUM | UNKNOWN
+http://blog.crpg.info/2015/ | archive | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2016/ | archive | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2017/ | archive | HIGH | ACCESSIBLE
+http://blog.crpg.info/2018/ | archive | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2019/ | archive | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2020/ | archive | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2021/ | archive | HIGH | ACCESSIBLE
+http://blog.crpg.info/2022/ | archive | MEDIUM | ACCESSIBLE
+http://blog.crpg.info/2023/ | archive | HIGH | ACCESSIBLE
+
+## Tag Pages (Major Topics)
+http://blog.crpg.info/search/label/water | tag | HIGH | ACCESSIBLE
+http://blog.crpg.info/search/label/environment | tag | HIGH | UNKNOWN
+http://blog.crpg.info/search/label/regulation | tag | HIGH | ACCESSIBLE
+http://blog.crpg.info/search/label/human%20rights | tag | MEDIUM | UNKNOWN
+http://blog.crpg.info/search/label/governance | tag | MEDIUM | UNKNOWN
+http://blog.crpg.info/search/label/transparency | tag | MEDIUM | UNKNOWN
+http://blog.crpg.info/search/label/nanotechnology | tag | LOW | ACCESSIBLE
+http://blog.crpg.info/search/label/stakeholder | tag | MEDIUM | UNKNOWN
+
+## Feeds
+http://blog.crpg.info/feeds/posts/default | feed | MEDIUM | UNKNOWN
+http://blog.crpg.info/feeds/posts/default?alt=rss | feed | MEDIUM | UNKNOWN
+http://blog.crpg.info/feeds/comments/default | feed | LOW | UNKNOWN
+
+# -----------------------------------------------------------------------------
+# KNOWLEDGE BASE (knowledge.crpg.info)
+# Status: Accessible
+# Estimated: 50-100 articles
+# -----------------------------------------------------------------------------
+
+## Home Pages
+https://knowledge.crpg.info/en/home | homepage | HIGH | ACCESSIBLE
+https://knowledge.crpg.info/id/home | homepage | HIGH | ACCESSIBLE
+
+## Topic Areas (Estimated - URLs to be discovered)
+https://knowledge.crpg.info/en/esg | topic | HIGH | UNKNOWN
+https://knowledge.crpg.info/en/hredd | topic | HIGH | UNKNOWN
+https://knowledge.crpg.info/en/water-law | topic | HIGH | UNKNOWN
+https://knowledge.crpg.info/en/environmental-governance | topic | HIGH | UNKNOWN
+https://knowledge.crpg.info/en/public-health | topic | MEDIUM | UNKNOWN
+https://knowledge.crpg.info/en/sustainability | topic | HIGH | UNKNOWN
+
+# -----------------------------------------------------------------------------
+# PDF ASSETS (Research Reports and Documents)
+# -----------------------------------------------------------------------------
+
+## Major Research Reports
+https://crpg.info/wp-content/uploads/2024/07/Realizing-Access-to-Safe-Inclusive-Sustainable-and-Climate-Resillient-Drinking-Water-Sanitation-and-Hygiene-for-All.pdf | pdf | HIGH | VERIFIED
+https://crpg.info/wp-content/uploads/2022/05/W2-4-UNICEF-water-sanitation-and-hygiene-research-agenda-06042022.pdf | pdf | HIGH | UNKNOWN
+https://crpg.info/wp-content/uploads/2022/05/W2-5-Trends-WASH-research-Indonesia.pdf | pdf | HIGH | UNKNOWN
+https://cloud.crpg.info/docs/aiirareport8072016_2.pdf | pdf | HIGH | UNKNOWN
+
+# -----------------------------------------------------------------------------
+# EXTERNAL REFERENCES
+# -----------------------------------------------------------------------------
+
+## Cloud Storage
+https://cloud.crpg.info/ | storage | MEDIUM | UNKNOWN
+
+## Academic Repositories
+https://www.academia.edu/27192034 | external | LOW | UNKNOWN
+https://scholar.google.com/citations?user=YYWNNTEAAAAJ&hl=en | external | LOW | UNKNOWN
+
+# -----------------------------------------------------------------------------
+# SUMMARY STATISTICS
+# -----------------------------------------------------------------------------
+#
+# Total Identified URLs: ~80+ specific URLs
+# Total Estimated URLs (including all blog posts): ~1,100-1,200
+#
+# Status Breakdown:
+# - VERIFIED: 1
+# - ACCESSIBLE: 10+
+# - INACCESSIBLE: 10+
+# - UNKNOWN: 60+
+#
+# Priority Breakdown:
+# - HIGH: 40+
+# - MEDIUM: 30+
+# - LOW: 10+
+#
+# -----------------------------------------------------------------------------
+# NOTES FOR AGENT 2
+# -----------------------------------------------------------------------------
+#
+# 1. Blog sitemap.xml contains 900+ URLs - extract all for complete list
+# 2. Main site requires restoration or Wayback Machine access
+# 3. Knowledge base structure needs systematic crawling
+# 4. PDF URLs should be validated before bulk download
+# 5. Use year archives as fallback for individual post discovery
+#
+# -----------------------------------------------------------------------------
