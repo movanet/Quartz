@@ -4,7 +4,3 @@
 [submodule "firecrawl"]
 	path = firecrawl
 	url = https://github.com/mendableai/firecrawl.git
-[submodule "quartz"]
-	path = quartz
-	url = https://github.com/jackyzha0/quartz.git
-	branch = v4
