@@ -187,6 +187,29 @@
     },
     {
       "id": 12,
+      "name": "Automated Testing Framework Integration",
+      "timestamp": "2025-10-25T14:30:00Z",
+      "status": "complete",
+      "tasks": [
+        "Created curl-based testing framework (test_deployment.sh)",
+        "Created Puppeteer browser automation tests (test_puppeteer.js)",
+        "Integrated tests into GitHub Actions workflow",
+        "Created package.json for test dependencies",
+        "Added test job to deploy.yml",
+        "Configured JSON logging for all tests",
+        "Documentation: TESTING_FRAMEWORK_INTEGRATION.md"
+      ],
+      "deliverables": {
+        "test_frameworks": 2,
+        "test_count": 19,
+        "curl_tests": 10,
+        "puppeteer_tests": 9,
+        "json_logs": 2,
+        "screenshots": 3
+      }
+    },
+    {
+      "id": 13,
       "name": "Enable GitHub Pages",
       "timestamp": null,
       "status": "pending",

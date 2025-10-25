@@ -1,0 +1,26 @@
+{
+  "name": "crpg-archive-tests",
+  "version": "1.0.0",
+  "description": "Testing framework for CRPG Archive deployment",
+  "scripts": {
+    "test": "node test_puppeteer.js",
+    "test:deployment": "bash test_deployment.sh",
+    "test:all": "bash test_deployment.sh && node test_puppeteer.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/movanet/Quartz"
+  },
+  "keywords": [
+    "testing",
+    "deployment",
+    "puppeteer",
+    "github-pages"
+  ],
+  "author": "CRPG",
+  "license": "MIT"
+}

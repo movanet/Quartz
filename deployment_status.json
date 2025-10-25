@@ -1,8 +1,8 @@
 {
   "deployment": {
     "project_name": "CRPG.info Archive",
-    "status": "ready_for_github_pages",
-    "last_updated": "2025-10-25T14:10:00Z"
+    "status": "testing_framework_integrated",
+    "last_updated": "2025-10-25T14:30:00Z"
   },
   "completed_steps": [
     {
@@ -48,6 +48,34 @@
         "remote": "origin",
         "push_count": 3,
         "all_commits_pushed": true
+      }
+    },
+    {
+      "step": 2.5,
+      "action": "Integrate automated testing framework",
+      "status": "complete",
+      "timestamp": "2025-10-25T14:30:00Z",
+      "details": {
+        "testing_frameworks": ["curl", "puppeteer"],
+        "test_scripts": ["test_deployment.sh", "test_puppeteer.js"],
+        "workflow_integration": ".github/workflows/deploy.yml",
+        "package_json": "created for test dependencies",
+        "test_types": [
+          "GitHub Pages status",
+          "Site accessibility",
+          "Homepage content",
+          "Asset loading",
+          "Search functionality",
+          "HTTPS verification",
+          "Performance metrics",
+          "Mobile responsiveness",
+          "Dark mode",
+          "Console errors"
+        ],
+        "outputs": {
+          "json_logs": ["test_results.json", "puppeteer_test_results.json"],
+          "screenshots": ["mobile-view.png", "dark-mode.png", "final-state.png"]
+        }
       }
     }
   ],
