@@ -1,3 +1,401 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/**
+ * CRPG Custom Styles
+ * Center for Regulation Policy and Governance
+ *
+ * Brand Colors:
+ * - Primary Red: #E51D1D
+ * - Secondary Orange: #ED6600
+ * - Accent Blue: #3000E0
+ *
+ * Typography:
+ * - Headers: Roboto Slab
+ * - Body: Roboto
+ * - Code: IBM Plex Mono
+ */
+
+/* ============================================
+   CSS Variables for CRPG Theme
+   ============================================ */
+:root {
+  --primary: #E51D1D;
+  --secondary: #ED6600;
+  --accent: #3000E0;
+  --primary-hover: #c91818;
+  --secondary-hover: #d45a00;
+
+  /* Professional spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+
+  /* Border radius for modern look */
+  --border-radius: 8px;
+  --border-radius-sm: 4px;
+}
+
+/* ============================================
+   Enhanced Link Styling
+   ============================================ */
+a {
+  color: var(--primary);
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+
+  &:hover {
+    color: var(--primary-hover);
+    text-decoration-color: var(--secondary);
+  }
+
+  &:focus {
+    outline: 2px solid var(--primary);
+    outline-offset: 2px;
+  }
+}
+
+/* ============================================
+   Header Enhancements
+   ============================================ */
+.page-title {
+  font-weight: 700;
+  color: var(--primary);
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+/* ============================================
+   Article Title Styling
+   ============================================ */
+.article-title {
+  color: var(--darkgray);
+  border-bottom: 3px solid var(--primary);
+  padding-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-lg);
+}
+
+/* ============================================
+   Button & Interactive Elements
+   ============================================ */
+button,
+.button {
+  background-color: var(--primary);
+  color: white;
+  border: none;
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--border-radius-sm);
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+
+  &:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-1px);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+/* ============================================
+   Search Box Enhancement
+   ============================================ */
+#search-container {
+  input[type="text"] {
+    border: 2px solid var(--lightgray);
+    border-radius: var(--border-radius);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+    &:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(229, 29, 29, 0.1);
+    }
+  }
+}
+
+/* ============================================
+   Tag Styling
+   ============================================ */
+.tag {
+  background-color: var(--secondary);
+  color: white;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius-sm);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: inline-block;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+
+  &:hover {
+    background-color: var(--secondary-hover);
+    color: white;
+    transform: translateY(-2px);
+  }
+}
+
+.tags {
+  display: flex;
+  gap: var(--spacing-sm);
+  flex-wrap: wrap;
+  margin: var(--spacing-md) 0;
+}
+
+/* ============================================
+   Backlinks Section
+   ============================================ */
+.backlinks {
+  border-top: 2px solid var(--lightgray);
+  padding-top: var(--spacing-lg);
+  margin-top: var(--spacing-xl);
+
+  h3 {
+    color: var(--primary);
+    margin-bottom: var(--spacing-md);
+  }
+
+  a {
+    color: var(--darkgray);
+
+    &:hover {
+      color: var(--primary);
+    }
+  }
+}
+
+/* ============================================
+   Table of Contents
+   ============================================ */
+.toc {
+  background-color: var(--light);
+  border-left: 3px solid var(--primary);
+  padding: var(--spacing-md);
+  border-radius: var(--border-radius);
+
+  .depth-2 {
+    padding-left: var(--spacing-md);
+  }
+
+  .depth-3 {
+    padding-left: var(--spacing-lg);
+  }
+
+  a {
+    color: var(--darkgray);
+    text-decoration: none;
+    display: block;
+    padding: var(--spacing-xs) 0;
+    transition: color 0.2s ease, padding-left 0.2s ease;
+
+    &:hover {
+      color: var(--primary);
+      padding-left: var(--spacing-xs);
+    }
+
+    &.active {
+      color: var(--primary);
+      font-weight: 600;
+    }
+  }
+}
+
+/* ============================================
+   Graph View Enhancement
+   ============================================ */
+.graph {
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* ============================================
+   Footer Styling
+   ============================================ */
+footer {
+  border-top: 3px solid var(--primary);
+  padding-top: var(--spacing-lg);
+  margin-top: var(--spacing-xl);
+
+  a {
+    color: var(--secondary);
+    font-weight: 500;
+
+    &:hover {
+      color: var(--primary);
+    }
+  }
+}
+
+/* ============================================
+   Code Block Enhancements
+   ============================================ */
+pre {
+  border-radius: var(--border-radius);
+  border-left: 4px solid var(--secondary);
+}
+
+code {
+  background-color: var(--lightgray);
+  padding: 2px 6px;
+  border-radius: var(--border-radius-sm);
+  font-family: "IBM Plex Mono", monospace;
+}
+
+/* ============================================
+   Blockquote Styling
+   ============================================ */
+blockquote {
+  border-left: 4px solid var(--primary);
+  background-color: rgba(229, 29, 29, 0.05);
+  padding: var(--spacing-md);
+  margin: var(--spacing-md) 0;
+  border-radius: var(--border-radius);
+
+  p {
+    margin: 0;
+  }
+}
+
+/* ============================================
+   Table Styling
+   ============================================ */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: var(--spacing-md) 0;
+
+  th {
+    background-color: var(--primary);
+    color: white;
+    padding: var(--spacing-sm) var(--spacing-md);
+    text-align: left;
+    font-weight: 600;
+  }
+
+  td {
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  tr:hover {
+    background-color: rgba(229, 29, 29, 0.05);
+  }
+}
+
+/* ============================================
+   Explorer (File Tree) Styling
+   ============================================ */
+.explorer {
+  .folder {
+    color: var(--primary);
+    font-weight: 600;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+
+  .file {
+    color: var(--darkgray);
+
+    &:hover {
+      color: var(--primary);
+    }
+  }
+}
+
+/* ============================================
+   Breadcrumb Navigation
+   ============================================ */
+.breadcrumbs {
+  color: var(--gray);
+  font-size: 0.9rem;
+  margin-bottom: var(--spacing-md);
+
+  a {
+    color: var(--secondary);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--primary);
+      text-decoration: underline;
+    }
+  }
+
+  .crumb-separator {
+    margin: 0 var(--spacing-xs);
+    color: var(--gray);
+  }
+}
+
+/* ============================================
+   Content Meta (Date, Reading Time)
+   ============================================ */
+.content-meta {
+  color: var(--gray);
+  font-size: 0.9rem;
+  margin-bottom: var(--spacing-md);
+  display: flex;
+  gap: var(--spacing-md);
+
+  svg {
+    color: var(--secondary);
+  }
+}
+
+/* ============================================
+   Responsive Adjustments
+   ============================================ */
+@media (max-width: 768px) {
+  :root {
+    --spacing-lg: 1rem;
+    --spacing-xl: 1.5rem;
+  }
+
+  .article-title {
+    font-size: 1.75rem;
+  }
+}
+
+/* ============================================
+   Dark Mode Adjustments
+   ============================================ */
+@media (prefers-color-scheme: dark) {
+  .article-title {
+    border-bottom-color: #ff4444;
+  }
+
+  blockquote {
+    background-color: rgba(255, 68, 68, 0.1);
+    border-left-color: #ff4444;
+  }
+
+  table th {
+    background-color: #ff4444;
+  }
+
+  table tr:hover {
+    background-color: rgba(255, 68, 68, 0.1);
+  }
+}
+
+/* ============================================
+   Print Styles
+   ============================================ */
+@media print {
+  a {
+    color: black;
+    text-decoration: underline;
+  }
+
+  .no-print {
+    display: none;
+  }
+}

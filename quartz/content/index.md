@@ -1,93 +1,90 @@
 ---
-title: "CRPG Archive - Center for Regulation, Policy and Governance"
-description: "Digital archive of 18 years of research, policy analysis, and knowledge on regulation, governance, and public policy from Indonesia"
-date: 2025-10-25
+title: "CRPG"
+description: "CRPG: Center for Regulation Policy and Governance We are a group of scholars passionate to make a difference through action-research. We facilitate your need for research-based decision making, consul"
+tags: ["crpg"]
 ---
 
-# Welcome to the CRPG Archive
+## CRPG:  
+Center for Regulation Policy and Governance
 
-This is the digital archive of **Center for Regulation, Policy and Governance (CRPG)**, preserving 18 years (2006-2023) of research, policy analysis, and expertise on regulation, governance, and public policy with a focus on Indonesia and the Asia-Pacific region.
+We are a group of scholars passionate to make a difference through action-research.
 
-## About CRPG
+We facilitate your need for research-based decision making, consultancies and social responsibility, and aim to make impact on people’s life.
 
-The **Center for Regulation, Policy and Governance** is an Indonesian research center and civil society organization dedicated to advancing good governance, effective regulation, and sustainable public policy through rigorous research and evidence-based advocacy.
+The Center for Regulation, Policy and Governance (CRPG) is an Association with Legal Entity (_Perkumpulan Berbadan Hukum_) established through the approval of the Minister of Justice and Human Rights No. AHU-0027408.AH.01.07.TAHUN 2016.
 
-### Our Focus Areas
+[ __ PROFILE ](/profile)
 
-- **Water Governance & Sanitation** - Community-based water supply, WASH infrastructure, water law
-- **Environmental Regulation** - Climate policy, sustainable development, environmental impact assessment
-- **Regulatory Theory & Practice** - Regulatory effectiveness, compliance, policy instruments
-- **Open Government & Transparency** - OGP commitments, participatory governance
-- **Chemical Safety & POPs** - Mercury reduction, hazardous substance regulation
+Our Work
 
-## Explore the Archive
+[ __](/research)
 
-### 📚 [Blog Posts](/blog)
+###  [Research](/research)
 
-Over **900 blog posts** spanning 2006-2023, covering:
-- Water governance and human rights (117 posts)
-- Environmental regulation (59 posts)
-- Governance and public policy (47 posts)
-- Human rights and development (42 posts)
-- Nanotechnology regulation (archive from early years)
+All Research completed by CRPG since 2013.
 
-### 📄 Research Publications
+[ __](/program)
 
-Major research outputs preserved in this archive:
+###  [Program](/program)
 
-- **[IsWASH 2023 Symposium Proceedings](/assets/pdfs/Realizing-Access-to-Safe-Inclusive-Sustainable-and-Climate-Resillient-Drinking-Water-Sanitation-and-Hygiene-for-All.pdf)** (3.74 MB)
-  *Realizing Access to Safe, Inclusive, Sustainable and Climate-Resilient Drinking Water, Sanitation and Hygiene for All*
+To enhance the capacity of government reformers and civil society activists in both member and non-OGP member countries in Asia Pacific through peer to peer learning exchange.
 
-- **AIIRA Report (2016)** - Community-based water and sanitation service provision frameworks
+[ __](/events)
 
-- **POPs Study (2017)** - Chemical regulation and PCB phase-out analysis
+###  [Events](/events)
 
-- **OGP-IRM Reports (2015-2017)** - Indonesia's Open Government Partnership implementation assessment
+Events that held or organized by CRPG.
 
-### 🏷️ Browse by Topic
+Clients and Partners
 
-Use the tag system to explore content by theme:
-- [#water](/tags/water) - Water law, WASH, sanitation
-- [#governance](/tags/governance) - Governance frameworks and reform
-- [#regulation](/tags/regulation) - Regulatory theory and practice
-- [#environment](/tags/environment) - Environmental policy and sustainability
-- [#human-rights](/tags/human-rights) - Rights-based approaches to policy
+![WRI](/assets/images/2021/10/WRI-300x193.png)
 
-### 📊 Interactive Features
+![SWA Logo](/assets/images/2021/10/SWA-Logo.png)
 
-- **Search** - Full-text search across all content
-- **Graph View** - Visualize connections between research topics
-- **Explorer** - Browse the complete archive structure
-- **Backlinks** - See citations and references between documents
+![logo-hivos](/assets/images/2021/10/logo-hivos.jpg)
 
-## About This Archive
+![unicef](/assets/images/2021/10/unicef.jpg)
 
-This archive was created in October 2025 to preserve and make accessible CRPG's valuable research contributions. The content has been carefully migrated from the original WordPress blog (blog.crpg.info) and main website (crpg.info) to this modern, sustainable static site format.
+![uod_logo](/assets/images/2019/01/uod_logo.png)
 
-### Archive Statistics
+![ausaid](/assets/images/2019/01/ausaid.png)
 
-- **Time Period**: 2006-2023 (18 years)
-- **Blog Posts**: 900+ articles
-- **Research Papers**: 15+ major publications
-- **Total Content**: 150+ archived pages
-- **Languages**: English (70%), Bahasa Indonesia (30%)
+![bappenas](/assets/images/2019/01/bappenas.png)
 
-### Team
+![images](/assets/images/2019/01/images.png)
 
-CRPG's work represents the collective expertise of:
-- Dr. Mohamad Mova Al'Afghani (Director)
-- 15+ core and affiliated researchers
-- Partnerships with UNESCO, UNIDO, Australian Government, and others
+![jejaringampl](/assets/images/2018/12/jejaringampl.png)
 
-## Contact & Links
+![waterlex4](/assets/images/2019/01/waterlex4.jpg)
 
-- **Main Website**: [crpg.info](https://crpg.info)
-- **Knowledge Base**: [knowledge.crpg.info](https://knowledge.crpg.info)
-- **GitHub**: [CRPG Archive Repository](https://github.com/movanet/Quartz)
-- **Contact**: info@crpg.info
+![smec](/assets/images/2019/01/smec.jpg)
 
----
+![unescodundee](/assets/images/2019/01/unescodundee.jpg)
 
-*This archive is maintained as a public good to ensure CRPG's research remains accessible for scholars, policymakers, and practitioners working on governance, regulation, and sustainable development.*
+![unido2](/assets/images/2019/01/unido2.jpg)
 
-*Last Updated: October 2025*
+![isf](/assets/images/2019/01/isf.png)
+
+![kemenlhk](/assets/images/2019/01/kemenlhk.png)
+
+![ogpirm](/assets/images/2019/01/ogpirm.jpg)
+
+![logo Petrolab](/assets/images/2021/10/logo-Petrolab-300x69.png)
+
+![Biodiversity Research Institute Logo](/assets/images/2021/10/Biodiversity-Research-Institute-Logo-300x150.png)
+
+![Kemenlu Logo](/assets/images/2021/10/Kemenlu-Logo-300x168.jpg)
+
+![Ecoverse_Hi_Res \(1\) \(1\)](/assets/images/2021/10/Ecoverse_Hi_Res-1-1-1.png)
+
+![SNV \(1\)](/assets/images/2021/10/SNV-1.png)
+
+![GWP SEA2](/assets/images/2022/09/GWP-SEA2-300x79.png)
+
+![Logo Koneksi](/assets/images/2023/07/Logo-Koneksi-300x100.png)
+
+![Hukum Online 1](/assets/images/2023/07/Hukum-Online-1.jpg)
+
+![Nexus Logo](/assets/images/2023/07/Nexus-Logo-300x111.png)
+
+![IPEN](/assets/images/2023/11/IPEN-300x188.jpg)

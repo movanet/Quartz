@@ -4,16 +4,16 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Quartz 4 Configuration - CRPG Edition
  *
- * This configuration is customized for the Center for Research on Public Governance (CRPG)
- * Brand colors: Red #e51d1d, Orange #ed6600
+ * This configuration is customized for the Center for Regulation Policy and Governance (CRPG)
+ * Brand colors: Red #E51D1D, Orange #ED6600, Blue #3000E0
  * Target: Professional academic/policy research site
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "CRPG Archive",
-    pageTitleSuffix: " | Center for Research on Public Governance",
+    pageTitle: "CRPG - Center for Regulation Policy and Governance",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -27,19 +27,19 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Merriweather",           // Professional serif for headers
-        body: "Source Sans Pro",          // Clean, readable sans-serif
-        code: "JetBrains Mono",           // Modern monospace for code
+        header: "Roboto Slab",            // Roboto Slab for headers (matches original)
+        body: "Roboto",                   // Roboto for body text (matches original)
+        code: "IBM Plex Mono",            // Modern monospace for code
       },
       colors: {
         lightMode: {
-          light: "#fafafa",               // Soft white background
+          light: "#ffffff",               // White background (matches original)
           lightgray: "#e5e5e5",           // Light gray for borders
           gray: "#9e9e9e",                // Medium gray for secondary text
           darkgray: "#424242",            // Dark gray for primary text
-          dark: "#212121",                // Near black for emphasis
-          secondary: "#e51d1d",           // CRPG Red - primary brand color
-          tertiary: "#ed6600",            // CRPG Orange - accent color
+          dark: "#000000",                // Black for emphasis (footer)
+          secondary: "#E51D1D",           // CRPG Red - primary brand color
+          tertiary: "#ED6600",            // CRPG Orange - accent color
           highlight: "rgba(229, 29, 29, 0.1)",  // Light red highlight
           textHighlight: "#fff3cd",       // Warm yellow for text highlights
         },
@@ -92,7 +92,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(), // Temporarily disabled due to network issues
     ],
   },
 }

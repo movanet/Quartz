@@ -1,0 +1,785 @@
+{
+  "total_files": 151,
+  "total_size_mb": 90.58,
+  "by_type": {
+    "images": 83,
+    "pdfs": 37,
+    "documents": 1,
+    "other": 30
+  },
+  "by_year": {
+    "2018": 9,
+    "2019": 12,
+    "2021": 13,
+    "2022": 34,
+    "2023": 49,
+    "2024": 4
+  },
+  "by_folder": {
+    "2018": 9,
+    "2019": 12,
+    "2021": 13,
+    "2022": 34,
+    "2023": 49,
+    "2024": 4,
+    "elementor": 30
+  },
+  "copied_files": [
+    {
+      "source": "2018\\12\\ausaid.png",
+      "size_mb": 0.003,
+      "category": "images"
+    },
+    {
+      "source": "2018\\12\\bappenas-1.png",
+      "size_mb": 0.005,
+      "category": "images"
+    },
+    {
+      "source": "2018\\12\\cropped-lj-180x180.png",
+      "size_mb": 0.012,
+      "category": "images"
+    },
+    {
+      "source": "2018\\12\\cropped-lj-192x192.png",
+      "size_mb": 0.013,
+      "category": "images"
+    },
+    {
+      "source": "2018\\12\\cropped-lj-32x32.png",
+      "size_mb": 0.001,
+      "category": "images"
+    },
+    {
+      "source": "2018\\12\\jejaringampl.png",
+      "size_mb": 0.011,
+      "category": "images"
+    },
+    {
+      "source": "2018\\12\\lj.png",
+      "size_mb": 0.087,
+      "category": "images"
+    },
+    {
+      "source": "2018\\12\\LogoAMPLbaru.jpg",
+      "size_mb": 0.026,
+      "category": "images"
+    },
+    {
+      "source": "2018\\12\\unesco_centre_wlps.jpg",
+      "size_mb": 0.005,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\15687673200_014aafce7e_o.jpg",
+      "size_mb": 2.274,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\ausaid.png",
+      "size_mb": 0.009,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\bappenas.png",
+      "size_mb": 0.012,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\images.png",
+      "size_mb": 0.007,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\isf.png",
+      "size_mb": 0.005,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\kemenlhk.png",
+      "size_mb": 0.019,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\ogpirm.jpg",
+      "size_mb": 0.01,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\smec.jpg",
+      "size_mb": 0.006,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\unescodundee.jpg",
+      "size_mb": 0.012,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\unido2.jpg",
+      "size_mb": 0.006,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\uod_logo.png",
+      "size_mb": 0.012,
+      "category": "images"
+    },
+    {
+      "source": "2019\\01\\waterlex4.jpg",
+      "size_mb": 0.011,
+      "category": "images"
+    },
+    {
+      "source": "2021\\09\\Regulasi-dan-Kebijakan-Terkait-dengan-Penargetan-Masyarakat-B40.pdf",
+      "size_mb": 0.571,
+      "category": "pdfs"
+    },
+    {
+      "source": "2021\\10\\Biodiversity-Research-Institute-Logo-300x150.png",
+      "size_mb": 0.02,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\Biodiversity-Research-Institute-Logo.png",
+      "size_mb": 0.02,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\Ecoverse_Hi_Res-1-1-1.png",
+      "size_mb": 0.004,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\Kemenlu-Logo-300x168.jpg",
+      "size_mb": 0.007,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\logo-hivos.jpg",
+      "size_mb": 0.015,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\logo-Petrolab-300x69.png",
+      "size_mb": 0.019,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\policybriefmam1.pdf",
+      "size_mb": 0.278,
+      "category": "pdfs"
+    },
+    {
+      "source": "2021\\10\\SNV-1.png",
+      "size_mb": 0.002,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\SWA-Logo.png",
+      "size_mb": 0.037,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\swamamindonesia.pdf",
+      "size_mb": 1.272,
+      "category": "pdfs"
+    },
+    {
+      "source": "2021\\10\\unicef.jpg",
+      "size_mb": 0.008,
+      "category": "images"
+    },
+    {
+      "source": "2021\\10\\WRI-300x193.png",
+      "size_mb": 0.036,
+      "category": "images"
+    },
+    {
+      "source": "2022\\05\\FLAYER-W2-576x1024.jpg",
+      "size_mb": 0.11,
+      "category": "images"
+    },
+    {
+      "source": "2022\\05\\W1-1-Bappenas.pdf",
+      "size_mb": 1.358,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W2-1-Series-Jejaring-MAM-Lembaga-Riset.pdf",
+      "size_mb": 1.517,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W2-2-Jejaring-AMPL-Jembatan-Pengetahuan.pdf",
+      "size_mb": 0.692,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W2-3-Webinar-Jejaring-AMPL-R_D-WASH-Indonesia.pdf",
+      "size_mb": 1.134,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W2-4-UNICEF-water-sanitation-and-hygiene-research-agenda-06042022.pdf",
+      "size_mb": 0.719,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W2-5-Trends-WASH-research-Indonesia.pdf",
+      "size_mb": 0.911,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W3-1-Nur-Aisyah.pdf",
+      "size_mb": 1.697,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W3-2-Adaro.pdf",
+      "size_mb": 1.178,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W3-3-ASTRA.pdf",
+      "size_mb": 1.836,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W3-5-PZ-Cussons.pdf",
+      "size_mb": 1.241,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W3-576x1024.jpg",
+      "size_mb": 0.098,
+      "category": "images"
+    },
+    {
+      "source": "2022\\05\\W3-7-Yayasan-Buddha-Tzu-Chi_com.pdf",
+      "size_mb": 0.69,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W3-Bappenas-New-Commitments-v5.pdf",
+      "size_mb": 1.507,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\W4-576x1024.jpg",
+      "size_mb": 0.09,
+      "category": "images"
+    },
+    {
+      "source": "2022\\05\\W4-Komitmen-dari-Pelaku-Usaha_WO.xlsx",
+      "size_mb": 0.026,
+      "category": "documents"
+    },
+    {
+      "source": "2022\\05\\Webinar-1-Materi-Siddhartha-Das.pdf",
+      "size_mb": 1.619,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\05\\WS1-737x1024.jpg",
+      "size_mb": 0.113,
+      "category": "images"
+    },
+    {
+      "source": "2022\\06\\Notulensi-Webinar-1.pdf",
+      "size_mb": 0.464,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\06\\Notulensi-Webinar-2.pdf",
+      "size_mb": 0.276,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\06\\Notulensi-Webinar-3.pdf",
+      "size_mb": 0.29,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\06\\Notulensi-Webinar-4.pdf",
+      "size_mb": 0.076,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\06\\W3-8-Baznas..pdf",
+      "size_mb": 0.975,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\06\\W4-1-Jejaring-MAM-Investasi-Bisnis.pdf",
+      "size_mb": 1.476,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\06\\Web-P-576x1024.jpg",
+      "size_mb": 0.1,
+      "category": "images"
+    },
+    {
+      "source": "2022\\07\\multistakeholders-position-paper-on-indonesia-water-law-draft-en-final.pdf",
+      "size_mb": 1.882,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\09\\AICEE-Presentation.pdf",
+      "size_mb": 1.778,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\09\\GWP-SEA2-300x79.png",
+      "size_mb": 0.024,
+      "category": "images"
+    },
+    {
+      "source": "2022\\10\\Strengths-and-Limitations-of-The-Constitutional-Co-6-Basic-Principlesurts.pdf",
+      "size_mb": 1.956,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\11\\Mova-IICASS-2022.pdf",
+      "size_mb": 1.578,
+      "category": "pdfs"
+    },
+    {
+      "source": "2022\\11\\WhatsApp-Image-2022-10-25-at-22.44.10-721x1024.jpg",
+      "size_mb": 0.115,
+      "category": "images"
+    },
+    {
+      "source": "2022\\11\\WhatsApp-Image-2022-11-07-at-16.34.39-1024x1024.jpg",
+      "size_mb": 0.178,
+      "category": "images"
+    },
+    {
+      "source": "2022\\12\\1x.jpg",
+      "size_mb": 0.446,
+      "category": "images"
+    },
+    {
+      "source": "2022\\12\\Cover-Webinar-3-768x1024.jpg",
+      "size_mb": 0.121,
+      "category": "images"
+    },
+    {
+      "source": "2023\\02\\Accepted-Abstracts.pdf",
+      "size_mb": 1.099,
+      "category": "pdfs"
+    },
+    {
+      "source": "2023\\03\\Gender-Equity-Disability-and-Social-Inclusion-in-WASH-724x1024.jpg",
+      "size_mb": 0.129,
+      "category": "images"
+    },
+    {
+      "source": "2023\\03\\iswash.pdf",
+      "size_mb": 0.812,
+      "category": "pdfs"
+    },
+    {
+      "source": "2023\\03\\PenargetanB4.pdf",
+      "size_mb": 0.697,
+      "category": "pdfs"
+    },
+    {
+      "source": "2023\\03\\Webinar-Series-Road-to-IsWash-2023-724x1024.jpg",
+      "size_mb": 0.134,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\Corporate-Profile-CRPG-2023.pdf",
+      "size_mb": 1.083,
+      "category": "pdfs"
+    },
+    {
+      "source": "2023\\07\\Hukum-Online-1.jpg",
+      "size_mb": 0.01,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\Logo-Koneksi-300x100.png",
+      "size_mb": 0.011,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\Logo-Koneksi-768x257.png",
+      "size_mb": 0.034,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\Nexus-Logo-300x111.png",
+      "size_mb": 0.021,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\Nexus-Logo.png",
+      "size_mb": 0.057,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\Regulatory-Review-Cinnabar-and-Mercury-in-Indonesia-Mining-and-Trade.pdf",
+      "size_mb": 0.245,
+      "category": "pdfs"
+    },
+    {
+      "source": "2023\\07\\Regulatory-Review-Indonesia-Mercury-Trade-Import-Export-and-Distribution.pdf",
+      "size_mb": 0.576,
+      "category": "pdfs"
+    },
+    {
+      "source": "2023\\07\\UGM-Logo-300x300.jpg",
+      "size_mb": 0.567,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\UI-Logo-300x300.png",
+      "size_mb": 0.055,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\UTS-Logo.png",
+      "size_mb": 0.015,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\Wash-Report-Tata-kelola-sanitasi.pdf",
+      "size_mb": 1.134,
+      "category": "pdfs"
+    },
+    {
+      "source": "2023\\07\\WhatsApp-Image-2023-07-25-at-15.56.23.jpg",
+      "size_mb": 0.026,
+      "category": "images"
+    },
+    {
+      "source": "2023\\07\\WhatsApp-Image-2023-07-25-at-15.56.24.jpg",
+      "size_mb": 0.064,
+      "category": "images"
+    },
+    {
+      "source": "2023\\09\\FA-Simposium-WASH_Artboard-2.png",
+      "size_mb": 1.425,
+      "category": "images"
+    },
+    {
+      "source": "2023\\09\\FGD-bersama-Para-Pemangku-Kebijakan-Bag.-1a-1024x1024.jpg",
+      "size_mb": 0.189,
+      "category": "images"
+    },
+    {
+      "source": "2023\\09\\FGD-bersama-Para-Pemangku-Kebijakan-Bag.-1b-1024x1024.jpg",
+      "size_mb": 0.171,
+      "category": "images"
+    },
+    {
+      "source": "2023\\09\\FGD-bersama-Para-Pemangku-Kebijakan-Bag.-2a-1024x1024.jpg",
+      "size_mb": 0.134,
+      "category": "images"
+    },
+    {
+      "source": "2023\\09\\FGD-bersama-Para-Pemangku-Kebijakan-Bag.-2b-1024x1024.jpg",
+      "size_mb": 0.148,
+      "category": "images"
+    },
+    {
+      "source": "2023\\09\\FGD-bersama-Para-Pemangku-Kebijakan-Bag.-2c-1024x1024.jpg",
+      "size_mb": 0.134,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\1.jpg",
+      "size_mb": 0.302,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\2.jpeg",
+      "size_mb": 0.375,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\20230919_114410.jpg",
+      "size_mb": 1.701,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\20230919_143013.jpg",
+      "size_mb": 1.945,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\3.jpg",
+      "size_mb": 0.278,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\4.jpeg",
+      "size_mb": 0.291,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\5.jpg",
+      "size_mb": 0.202,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\6.jpg",
+      "size_mb": 0.271,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\IMG_6059.jpg",
+      "size_mb": 0.929,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\IMG_6066.jpg",
+      "size_mb": 0.618,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Lookbook-59.jpg",
+      "size_mb": 2.377,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Lookbook-88.jpg",
+      "size_mb": 2.032,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Lookbook-94.jpg",
+      "size_mb": 2.44,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Lookbook-99.jpg",
+      "size_mb": 1.641,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI-Diskusi-Group-1-1-e1697185484202.jpg",
+      "size_mb": 1.834,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI-Diskusi-Group-1-e1697185457650.jpg",
+      "size_mb": 2.152,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI-Diskusi-Group-2.jpg",
+      "size_mb": 1.944,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI-Diskusi-Group-4.jpg",
+      "size_mb": 1.49,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI-Diskusi-Pleno-2.jpg",
+      "size_mb": 1.112,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI-Pemaparan1.jpg",
+      "size_mb": 0.682,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI-Sesi-Foto-Bersama-1.jpg",
+      "size_mb": 1.4,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI-Tanya-Jawab.jpg",
+      "size_mb": 1.432,
+      "category": "images"
+    },
+    {
+      "source": "2023\\10\\Workshop-Pembuka-kegiatan-KONEKSI.jpg",
+      "size_mb": 1.486,
+      "category": "images"
+    },
+    {
+      "source": "2023\\11\\IPEN-300x188.jpg",
+      "size_mb": 0.01,
+      "category": "images"
+    },
+    {
+      "source": "2024\\05\\Air-Perubahan-Iklim-BKSAP-DPR-15-Mei-2024.pdf",
+      "size_mb": 5.503,
+      "category": "pdfs"
+    },
+    {
+      "source": "2024\\05\\HREDD-Launch-WWF-Bali-2.pdf",
+      "size_mb": 8.176,
+      "category": "pdfs"
+    },
+    {
+      "source": "2024\\07\\Realizing-Access-to-Safe-Inclusive-Sustainable-and-Climate-Resillient-Drinking-Water-Sanitation-and-Hygiene-for-All.pdf",
+      "size_mb": 3.568,
+      "category": "pdfs"
+    },
+    {
+      "source": "2024\\07\\Toward-Sustainable-Fisheries-Food-Systems-in-Indonesia.pdf",
+      "size_mb": 2.235,
+      "category": "pdfs"
+    },
+    {
+      "source": "elementor\\css\\post-132214a.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-143eb3d.css",
+      "size_mb": 0.001,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-14806bb.html",
+      "size_mb": 0.007,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-15106bb.css",
+      "size_mb": 0.007,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-1630762.css",
+      "size_mb": 0.001,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-1665472.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-17506bb.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-18006bb.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-18306bb.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-18606bb.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-1906fb3.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-193fde4.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-25122.css",
+      "size_mb": 0.014,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-258693e.css",
+      "size_mb": 0.001,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-33341ac.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-389e63.css",
+      "size_mb": 0.001,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-40ee72.css",
+      "size_mb": 0.001,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-423ba0d.css",
+      "size_mb": 0.001,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-42b16f.css",
+      "size_mb": 0.007,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-4488dc.css",
+      "size_mb": 0.006,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-4616cb.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-576d061.css",
+      "size_mb": 0.0,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-727c017.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-73752ff.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-781ded5.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-788fddd.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-7956a47.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-7997608.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-80531f4.css",
+      "size_mb": 0.002,
+      "category": "other"
+    },
+    {
+      "source": "elementor\\css\\post-8197f13.css",
+      "size_mb": 0.001,
+      "category": "other"
+    }
+  ],
+  "errors": []
+}

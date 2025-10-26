@@ -1,0 +1,79 @@
+{
+  "project": "CRPG Website Archive Migration",
+  "source": "D:\\Obsidian\\crpgweb",
+  "destination": "D:\\Obsidian\\Apps\\crpgwebsite\\quartz\\content",
+  "inventory": {
+    "main_site": {
+      "path": "crpg.info",
+      "total_html_files": 457,
+      "content_types": {
+        "homepage": "index.html",
+        "author_pages": [
+          "mohamad-mova-alafghani",
+          "dyah-paramita",
+          "aftaf-muhajir",
+          "agus_setiawan",
+          "budi-susety",
+          "diva_livia",
+          "feril-hariat",
+          "jibriel-avessina",
+          "lina-rospita",
+          "muhammad-maulana",
+          "mulia-nurhasan",
+          "nishrin",
+          "richo-wibowo"
+        ],
+        "main_sections": [
+          "about-us",
+          "events",
+          "publications",
+          "research",
+          "program",
+          "gallery",
+          "docs",
+          "ehrdd",
+          "wash",
+          "aiira",
+          "pcb",
+          "mwiki"
+        ],
+        "special_programs": [
+          "swa-mam-catalytic-program"
+        ]
+      },
+      "assets": {
+        "uploads_path": "wp-content/uploads",
+        "years": ["2018", "2019", "2021", "2022", "2023", "2024"],
+        "asset_types": ["images", "pdfs", "documents"]
+      }
+    },
+    "blog_site": {
+      "path": "blog.crpg.info",
+      "total_html_files": 54,
+      "years": ["2010", "2012", "2013", "2014", "2015", "2018", "2019", "2020", "2021"],
+      "structure": "chronological by year/month"
+    }
+  },
+  "conversion_strategy": {
+    "agent_1": {
+      "name": "Main Site Converter",
+      "responsibility": "Convert crpg.info HTML to Markdown",
+      "target_folder": "quartz/content/main"
+    },
+    "agent_2": {
+      "name": "Blog Converter",
+      "responsibility": "Convert blog.crpg.info HTML to Markdown",
+      "target_folder": "quartz/content/blog"
+    },
+    "agent_3": {
+      "name": "Asset Migrator",
+      "responsibility": "Copy and organize all assets (images, PDFs)",
+      "target_folder": "quartz/content/assets"
+    },
+    "agent_4": {
+      "name": "Quartz Configurator",
+      "responsibility": "Configure Quartz theme and settings",
+      "target_files": ["quartz.config.ts", "quartz.layout.ts"]
+    }
+  }
+}
